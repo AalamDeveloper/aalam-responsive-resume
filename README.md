@@ -6,7 +6,7 @@ A responsive, modern, and visually attractive personal resume webpage built usin
 
 ## 📌 Live Demo
 
-🔗 [Click here to view the live resume](https://AalamDeveloper.github.io/aalam-responsive-resume/)
+🔗 [Click here to view the live resume](https://github.com/AalamDeveloper/aalam-responsive-resume)
 
 ---
 
